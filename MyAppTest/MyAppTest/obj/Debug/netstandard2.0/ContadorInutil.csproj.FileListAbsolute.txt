@@ -1,0 +1,13 @@
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\ContadorInutil.deps.json
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\ContadorInutil.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\ref\ContadorInutil.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\ContadorInutil.pdb
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ContadorInutil.AssemblyInfoInputs.cache
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ContadorInutil.AssemblyInfo.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ContadorInutil.csproj.CoreCompileInputs.cache
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ContadorInutil.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ref\ContadorInutil.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ContadorInutil.pdb

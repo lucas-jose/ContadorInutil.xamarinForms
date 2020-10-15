@@ -1,0 +1,14 @@
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\MyAppTest.deps.json
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\MyAppTest.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\ref\MyAppTest.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\bin\Debug\netstandard2.0\MyAppTest.pdb
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.csprojAssemblyReference.cache
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.AssemblyInfoInputs.cache
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.AssemblyInfo.cs
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.csproj.CoreCompileInputs.cache
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\ref\MyAppTest.dll
+D:\Development\Projects\MyAppTest\MyAppTest\MyAppTest\obj\Debug\netstandard2.0\MyAppTest.pdb
